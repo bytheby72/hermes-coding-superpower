@@ -172,6 +172,19 @@ Hermes is working when:
 
 ---
 
+## 🎁 Bonus Skills (from superpowers-zh)
+
+Additional battle-tested skills for specific workflows:
+
+| Skill | Purpose | Location |
+|-------|---------|----------|
+| **using-git-worktrees** | Isolated feature development with git worktrees | `using-git-worktrees/SKILL.md` |
+| **mcp-builder** | Build MCP (Model Context Protocol) servers | `mcp-builder/SKILL.md` |
+| **workflow-runner** | Execute and manage complex workflows | `workflow-runner/SKILL.md` |
+| **verification-before-completion** | Evidence-first verification before claiming done | `verification-before-completion/SKILL.md` |
+
+---
+
 ## 📚 References
 
 - `references/KARPATHY_GUIDELINES.md` — Full Karpathy coding guidelines
